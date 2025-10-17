@@ -1,0 +1,504 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202510 will be lost/reset.
+# Last config file used to build this data file was /home/s141253/domains/fornkulturochform.com/awstats/.data/awstats.fornkulturochform.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2190                
+POS_TIME 2869                
+POS_VISITOR 11214               
+POS_DAY 14523               
+POS_DOMAIN 3585                
+POS_LOGIN 3814                
+POS_ROBOT 3969                
+POS_WORMS 4588                
+POS_EMAILSENDER 4719                
+POS_EMAILRECEIVER 4862                
+POS_SESSION 14956               
+POS_FILESIZE 15252               
+POS_REQUESTTIME 15367               
+POS_SIDER 15134               
+POS_FILETYPES 4997                
+POS_DOWNLOADS 5151                
+POS_OS 5199                
+POS_BROWSER 5412                
+POS_SCREENSIZE 6104                
+POS_UNKNOWNREFERER 6178                
+POS_UNKNOWNREFERERBROWSER 6305                
+POS_ORIGIN 6387                
+POS_SEREFERRALS 6521                
+POS_PAGEREFS 6684                
+POS_SEARCHWORDS 6832                
+POS_KEYWORDS 6984                
+POS_MISC 2532                
+POS_ERRORS 7043                
+POS_CLUSTER 3670                
+POS_SIDER_400 7165                
+POS_SIDER_403 7247                
+POS_SIDER_404 7345                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251017051828 43 8570 12113526894908
+FirstTime 20251001043447
+LastTime 20251017040546
+LastUpdate 20251017052606 43 0 43 0 0
+TotalVisits 87                  
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 82                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 10 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 6909 13 14 14372
+1 10 15 123372 10 17 7900
+2 5 15 209642 4 11 6786
+3 4 10 109881 69 84 14480
+4 5 7 12423 65 69 5661
+5 4 7 8271 45 55 21533
+6 6 11 114362 17 22 33321
+7 1 1 2303 21 36 22742
+8 6 10 111276 18 24 7119
+9 6 16 215500 19 23 17908
+10 1 1 2303 22 33 16697
+11 2 2 4606 12 21 17929
+12 8 13 116349 19 25 11975
+13 8 16 220857 36 42 22545
+14 6 10 118818 7 37 13590
+15 0 0 0 9 29 13248
+16 4 4 9212 30 50 11155
+17 1 1 2303 24 40 13549
+18 3 3 6909 9 31 11443
+19 4 9 107149 12 23 14990
+20 1 1 2303 20 25 5787
+21 3 7 104392 17 26 5332
+22 2 6 104380 10 13 21953
+23 6 6 13806 21 28 24666
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 99 174 1727326
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+facebook 22 108020 20251017051828 0
+360Spider 10 22910 20251016132646 0
+AhrefsBot/ 4 10782 20251014094523 0
+netcraft 3 14730 20251014034432 0
+Googlebot/ 3 13426 20251004063154 0
+no_user_agent 2 9820 20251010232526 0
+curl 2 4606 20251014071346 0
+BW/ 2 5845 20251007075846 0
+ning 2 9820 20251014180109 0
+robot 1 4910 20251011071808 0
+bot[\s_+:,\.\;\/\\-] 1 2291 20251014153419 0
+python 1 4910 20251003174456 0
+MSIE[\x20]6 1 4910 20251009013629 0
+Go\-http\-client/ 1 2303 20251001141626 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+woff2 15 723600 0 0
+woff 30 698580 0 0
+svg 15 6810 0 0
+php 99 223830 0 0
+css 15 74506 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+ios_iphone 10 2
+win10 70 49
+androidoreo 1 1
+Unknown 2 2
+macosx14 12 4
+linuxubuntu 42 14
+macosx 2 2
+linux 24 14
+macosx15 5 5
+android11 1 1
+win7 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 32
+firefox57.0 1 1
+chrome122.0.0.0 2 2
+chrome83.0.4103.97 10 2
+chrome58.0.3029.110 29 29
+msie11.0 1 1
+chrome121.0.0.0 5 1
+chrome72.0.3626.121 1 1
+firefox33.0 2 2
+firefox139.0 4 2
+chrome136.0.0.0 1 1
+firefox123 1 1
+chrome105.0.0.0 4 2
+firefox133.0 12 2
+firefox143.0 6 1
+chrome50.0.2661.102 2 2
+safari15.4 10 2
+chrome139.0.0.0 17 9
+firefox134.0 1 1
+chrome138.0.0.0 1 1
+safari17.6 2 2
+chrome95.0.4638.69 3 3
+chrome123.0.0.0 1 1
+chrome78.0.3904.108 1 1
+chrome92.0.4515.107 2 2
+chrome115.0.0.0 43 15
+chrome91.0.4472.114 2 2
+chrome88.0.4240.193 2 2
+chrome96.0.4664.45 2 2
+chrome11.0.696.71 2 2
+chrome131.0.0.0 2 2
+firefox73.0 1 1
+chrome125.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_Firefox/33.0 20251001062349
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 87 89
+From1 0 0
+From2 1 1
+From3 0 0
+From4 11 84
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 412 96915
+499 1 0
+301 288 38666
+403 1 197
+END_ERRORS
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/robots.txt 1 -
+END_SIDER_403
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 87
+/Www 1 http://www.fornkulturochform.com/Www
+/xmlrpc.php 2 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/test 1 http://www.fornkulturochform.com/test
+/old-site 1 http://www.fornkulturochform.com/old-site
+/www 1 http://www.fornkulturochform.com/www
+/photos/two.jpg 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp 1 http://www.fornkulturochform.com/wp
+/new 1 http://www.fornkulturochform.com/new
+/ads.txt 1 -
+//xmlrpc.php 1 -
+/TEST 1 http://www.fornkulturochform.com/TEST
+/BACKUP 1 http://www.fornkulturochform.com/BACKUP
+/Wp 1 http://www.fornkulturochform.com/Wp
+//2020/wp-includes/wlwmanifest.xml 1 -
+/WWW 1 http://www.fornkulturochform.com/WWW
+/media/system/js/core.js 10 http://fornkulturochform.com/media/system/js/core.js
+/2024 1 http://www.fornkulturochform.com/2024
+//blog/wp-includes/wlwmanifest.xml 1 -
+/bk 1 http://www.fornkulturochform.com/bk
+/2019 1 http://www.fornkulturochform.com/2019
+/WordPress 1 http://www.fornkulturochform.com/WordPress
+/backup 1 http://www.fornkulturochform.com/backup
+/wp-admin/setup-config.php 89 -
+/uploads/ 1 binance.com
+/.well-known/ 1 binance.com
+/llms.txt 1 -
+/wp-includes/js/jquery/jquery.js 9 http://fornkulturochform.com/wp-includes/js/jquery/jquery.js
+/WORDPRESS 1 http://www.fornkulturochform.com/WORDPRESS
+/BLOG 1 http://www.fornkulturochform.com/BLOG
+/wp-old 1 http://www.fornkulturochform.com/wp-old
+//shop/wp-includes/wlwmanifest.xml 1 -
+//wp-includes/wlwmanifest.xml 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+//website/wp-includes/wlwmanifest.xml 1 -
+/Backup 1 http://www.fornkulturochform.com/Backup
+//test/wp-includes/wlwmanifest.xml 1 -
+/main 1 http://www.fornkulturochform.com/main
+/sites/default/files/ 1 binance.com
+//news/wp-includes/wlwmanifest.xml 1 -
+/files/ 1 binance.com
+/Shop 1 http://www.fornkulturochform.com/Shop
+/robots.txt 120 -
+/wp-admin/css/ 1 binance.com
+/Site 1 http://www.fornkulturochform.com/Site
+/2023 1 http://www.fornkulturochform.com/2023
+/2021 1 http://www.fornkulturochform.com/2021
+/bac 1 http://www.fornkulturochform.com/bac
+//sito/wp-includes/wlwmanifest.xml 1 -
+/Test 1 http://www.fornkulturochform.com/Test
+/Wordpress 1 http://www.fornkulturochform.com/Wordpress
+/SHOP 1 http://www.fornkulturochform.com/SHOP
+//wp/wp-includes/wlwmanifest.xml 1 -
+/OLD 1 http://www.fornkulturochform.com/OLD
+/sG1HcrMS 11 -
+/2020 1 http://www.fornkulturochform.com/2020
+/images/ 1 binance.com
+/feed/atom/ 1 -
+/wordpress 1 http://www.fornkulturochform.com/wordpress
+/bc 1 http://www.fornkulturochform.com/bc
+/site 1 http://www.fornkulturochform.com/site
+/2018 1 http://www.fornkulturochform.com/2018
+/wp-login.php 1 -
+/sito 1 http://www.fornkulturochform.com/sito
+/sitio 1 http://www.fornkulturochform.com/sitio
+/WP 1 http://www.fornkulturochform.com/WP
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/login 1 -
+/Blog 1 http://www.fornkulturochform.com/Blog
+/old 1 http://www.fornkulturochform.com/old
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/NEW 1 http://www.fornkulturochform.com/NEW
+/.well-known/security.txt 1 -
+/demo 1 http://www.fornkulturochform.com/demo
+/2017 1 http://www.fornkulturochform.com/2017
+/bak 1 http://www.fornkulturochform.com/bak
+/Old 1 http://www.fornkulturochform.com/Old
+/2022 1 http://www.fornkulturochform.com/2022
+/New 1 http://www.fornkulturochform.com/New
+/oldsite 1 http://www.fornkulturochform.com/oldsite
+/SITE 1 http://www.fornkulturochform.com/SITE
+/wordpress/wp-admin/setup-config.php 91 -
+/admin/controller/extension/extension/ 1 binance.com
+/shop 1 http://www.fornkulturochform.com/shop
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 82
+2001:41d0:80a:3a00:: 4 12 204178 20251002064344
+43.163.89.195 2 2 4606 20251007005506
+43.157.6.162 2 2 4606 20251010010249
+8.36.86.60 2 2 7213 20251001062349
+20.98.104.241 2 2 4606 20251013121621
+35.197.49.144 2 2 9820 20251014144307
+212.108.144.49 2 2 0 20251005051859
+23.106.201.46 2 2 5821 20251002015619
+107.166.12.57 2 2 5821 20251002011453
+2001:41d0:25b:3800:: 2 6 102089 20251009191831
+192.71.2.119 1 1 2303 20251016115815
+43.157.1.134 1 1 2303 20251002014624
+94.159.110.103 1 1 2291 20251002121334
+185.35.56.246 1 1 2303 20251001101210
+44.204.129.38 1 1 2303 20251003132846
+43.159.60.229 1 1 2303 20251006093434
+170.106.184.100 1 5 102064 20251006033147
+143.198.234.199 1 2 2757 20251008040324
+43.156.235.217 1 1 2303 20251010092151
+142.93.190.212 1 2 2757 20251002050803
+43.135.180.120 1 1 2303 20251003211515
+5.133.192.138 1 2 2757 20251016013730
+170.106.140.151 1 1 2303 20251002085819
+49.51.205.73 1 1 2303 20251002231659
+144.126.199.78 1 2 2757 20251004024547
+43.159.135.119 1 1 2303 20251002160432
+49.13.222.149 1 6 102518 20251001093759
+43.157.10.16 1 1 2303 20251009085832
+93.158.90.32 1 1 2303 20251002204505
+2403:6200:88a4:534a::1 1 5 102089 20251012224154
+178.128.166.192 1 2 2757 20251010044802
+49.51.249.149 1 1 2303 20251003134914
+34.83.216.221 1 1 2303 20251002123922
+183.240.211.207 1 1 4910 20251007131032
+24.199.127.188 1 2 2757 20251011120131
+162.62.231.4 1 1 2303 20251008164357
+151.248.1.103 1 1 2303 20251017040546
+2a05:b40:0:718:56ab:3aff:fe8b:42c2 1 1 2303 20251012230109
+161.35.183.213 1 1 2303 20251015184252
+2a02:c207:2282:9868::1 1 1 2303 20251010230836
+123.6.49.6 1 1 2291 20251007131035
+2001:4ba0:cafe:b2c::1 1 1 2303 20251003091821
+43.135.142.202 1 5 102064 20251016025728
+24.199.118.50 1 2 2757 20251003063023
+209.38.123.130 1 2 2757 20251012054453
+139.196.76.166 1 1 2303 20251001140629
+43.134.0.60 1 1 2303 20251001184223
+170.106.150.215 1 1 2303 20251004043752
+46.184.53.222 1 1 2303 20251014230426
+2001:41d0:80a:3900:: 2 6 102089 20251007124031
+43.130.0.54 1 1 2303 20251005030327
+174.138.87.34 1 2 2757 20251016053217
+43.131.35.160 1 1 2303 20251009004849
+2a02:2479:2:7000::1 1 1 2303 20251015131537
+43.157.91.104 1 1 2303 20251001043447
+51.68.25.8 2 6 102064 20251005080508
+120.33.107.55 1 1 2291 20251002223553
+161.115.239.81 1 1 3530 20251007091519
+2001:41d0:249:bf00:: 2 6 102089 20251011212302
+64.23.234.24 1 2 2757 20251006035606
+60.24.209.57 1 1 4910 20251007131032
+43.157.108.251 1 1 2303 20251001113801
+46.101.178.83 1 2 2757 20251014035545
+183.146.72.194 1 1 2291 20251001230509
+54.159.87.155 1 1 2303 20251003142203
+129.226.193.201 1 1 2303 20251008003546
+2a02:aa1:1150:c9c2:2c4b:8abe:e376:190a 1 6 102543 20251007094046
+5.133.192.99 1 2 2757 20251007191439
+43.135.173.6 1 1 2303 20251004120329
+47.91.87.170 1 1 2303 20251016234650
+43.134.48.119 2 2 4606 20251007163731
+106.14.239.64 1 1 2303 20251001140639
+123.6.49.14 1 1 2291 20251007131035
+2a01:e5c0:2c8e::2 1 1 2303 20251007020417
+161.35.63.8 1 1 2303 20251010072317
+43.135.161.158 2 2 4606 20251005181541
+5.75.227.18 1 6 102518 20251002024551
+43.135.133.211 1 1 2303 20251006015205
+43.135.185.40 1 1 2303 20251003063635
+123.6.49.46 0 8 199546 
+124.156.196.149 1 1 2303 20251008083942
+15.204.46.133 2 6 102064 20251004011204
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20251001 12 21 227929 10
+20251002 16 26 237406 13
+20251003 7 8 16575 7
+20251004 6 11 111730 5
+20251005 6 10 106670 5
+20251006 5 10 111730 5
+20251007 13 31 434079 12
+20251008 4 5 9666 4
+20251009 5 9 108998 4
+20251010 5 6 11969 5
+20251011 3 8 104846 2
+20251012 3 8 107149 3
+20251013 2 2 4606 1
+20251014 4 5 14880 3
+20251015 2 2 4606 2
+20251016 5 11 112184 5
+20251017 1 1 2303 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 1
+2mn-5mn 5
+0s-30s 80
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 95 213240 85 83
+/portfolio/ 3 10590 1 3
+/blog/ 1 0 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+0-44 112
+2K-5K 159
+5K+ 45
+100-500 636
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME
